@@ -5,3 +5,8 @@ dist/
 
 # VS Code
 .vscode/
+
+
+# Practice files
+Practices/*
+output/*
